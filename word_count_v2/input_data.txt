@@ -1,0 +1,2 @@
+Hello Hadoop, goodbye to Hadoop.
+Hello Apache, goodbye to Apache.
